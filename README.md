@@ -1,6 +1,6 @@
 # MPJParallelPageRank
 
-This program calculates the page rank of 100 nodes which is provided in an input file.
+This program calculates the page rank of 1000 nodes which is provided in an input file.
 
 Input File : pagerank.input.1000.urls.14
 
